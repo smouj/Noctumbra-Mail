@@ -18,7 +18,7 @@
 **Zero-touch inbox operations for stealth communication workflows.**
 
 ## Visión
-Noctumbra-Mail es una skill orientada a producción dentro del **Universo SuperAgentes de smouj**. Está diseñada para resolver un problema operativo concreto con ejecución local-first, trazas de razonamiento transparentes y controles de seguridad prácticos. La arquitectura prioriza herramientas gratuitas/open-source, comportamiento determinista e integración modular con otras skills autónomas.
+Noctumbra-Mail es una skill de automatización de correo para triaje, borradores y flujos de respuesta basados en políticas. Clasifica el inbox, extrae acciones y permite manejo autónomo controlado de tareas repetitivas de comunicación.
 
 ## Superpoder principal
 - ⚡ **Intent-aware triage and safe auto-response orchestration**
