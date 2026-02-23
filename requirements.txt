@@ -1,8 +1,10 @@
-langchain
-langgraph
-llama-index
+google-api-python-client
+imapclient
+jinja2
+mypy>=1.10
 pydantic
-python-dotenv
-pytest
-ruff
-mypy
+pydantic>=2.7
+pytest>=8.0
+python-dotenv>=1.0
+ruff>=0.6
+tenacity
